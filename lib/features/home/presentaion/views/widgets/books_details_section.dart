@@ -14,7 +14,9 @@ class BookDetailsSection extends StatelessWidget {
       children: [
         Padding(
           padding: EdgeInsets.symmetric(horizontal: width * 0.2),
-          child: CustomBookImage(),
+          child: CustomBookImage(
+            imageUrl: 'https://thenounproject.com/icon/image-error-504708/',
+          ),
         ),
         const SizedBox(height: 43),
         Text(
