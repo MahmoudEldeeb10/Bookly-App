@@ -1,4 +1,4 @@
-import 'package:bookly/features/home/presentaion/views/widgets/custom_book_item_item.dart';
+import 'package:bookly/features/home/presentaion/views/widgets/custom_book_item.dart';
 import 'package:flutter/material.dart';
 
 class SimilarBooksListView extends StatelessWidget {
